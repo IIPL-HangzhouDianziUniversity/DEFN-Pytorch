@@ -135,6 +135,7 @@ class HSE_conv(nn.Module):
                 FuGH(channels=dims[i],groups=dims[i]),
                 LayerNorm(dims[i], eps=1e-6, data_format="channels_first"),
                 nn.Conv3d(dims[i], dims[i+1], kernel_size=2, stride=2),
+                LayerNorm(dims[i+1], eps=1e-6, data_format="channels_first"),
             )
             self.downsample_layers.append(downsample_layer)
 
