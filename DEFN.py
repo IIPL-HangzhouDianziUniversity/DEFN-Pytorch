@@ -353,7 +353,6 @@ class DEFN(nn.Module):
         res_block: bool = True,
         dimensions: Optional[int] = None,
     ):
-        # super(DEFN, self).__init__()
         super().__init__()
         
         if dimensions is not None:
