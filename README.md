@@ -27,4 +27,11 @@ We proposed DEFN, a 3D OCT segmentation network for eye diseases with unobvious 
 This repository contains the official Pytorch implementation for DEFN networking and DWC Loss, as well as the pre-trained model for DEFN.
 
 ## Methods
+### FuGH Module
 
+<div align=center>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/FuGH.png">
+</div>
+<p align=center>
+  Figure 3: The FuGH Module
+</p>
