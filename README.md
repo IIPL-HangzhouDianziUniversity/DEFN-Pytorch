@@ -30,8 +30,22 @@ This repository contains the official Pytorch implementation for DEFN networking
 ### FuGH Module
 
 <div align=center>
-  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/FuGH.png">
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/FuGH.png"width=50% height=50%>
 </div>
 <p align=center>
   Figure 3: The FuGH Module
+</p>
+
+<div align=center>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/S3DSA.png>
+</div>
+<p align=center>
+  Figure 3: The S3DSA Module
+</p>
+
+<div align=center>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/HSE.png>
+</div>
+<p align=center>
+  Figure 3: The HSE Module
 </p>
