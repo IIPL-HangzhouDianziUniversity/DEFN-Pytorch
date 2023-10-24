@@ -36,6 +36,9 @@ This repository contains the official Pytorch implementation for DEFN networking
   Figure 3: The FuGH Module
 </p>
 
+The Fourier Group Harmonics (FuGH) module enhances noise reduction in OCT images by employing Fourier transformation for feature extraction in the frequency domain, enabling targeted noise filtration and efficient processing of periodic patterns with reduced computational complexity.
+
+### S3DSA Module
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/S3DSA.png>
 </div>
@@ -43,9 +46,15 @@ This repository contains the official Pytorch implementation for DEFN networking
   Figure 3: The S3DSA Module
 </p>
 
+The Simplified 3D Spatial Attention (S3DSA) module improves the segmentation of macular holes and edema in retinal images by optimizing spatial attention mechanisms.  It refines focus on crucial regions, enhancing segmentation quality and computational efficiency.
+
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/HSE.png>
 </div>
 <p align=center>
   Figure 3: The HSE Module
 </p>
+
+The Harmonic Squeeze-and-Excitation Module (HSE) combines Fourier Group Harmonics (FuGH) and Squeeze-and-Excitation (SE) blocks to enhance segmentation of macular holes and edema, by extending the model's view field and recalibrating feature weights.
+
+
