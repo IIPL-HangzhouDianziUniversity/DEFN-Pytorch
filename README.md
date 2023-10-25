@@ -60,7 +60,14 @@ The Simplified 3D Spatial Attention (S3DSA) module improves the segmentation of 
 
 The Harmonic Squeeze-and-Excitation Module (HSE) combines Fourier Group Harmonics (FuGH) and Squeeze-and-Excitation (SE) blocks to enhance the segmentation of macular holes and edema, by extending the model's view field and recalibrating feature weights.
 
-## Baselines
+## Experiment
+### Baselines
 
 We have provided the GitHub links to the PyTorch implementation code for all networks compared in the experiments herein.
+
+[3D UX-Net](https://github.com/MASILab/3DUX-Net), [nnFormer](https://github.com/282857341/nnFormer), [3D U-Net](https://github.com/wolny/pytorch-3dunet), [SegResNet](https://github.com/Project-MONAI/MONAI/blob/dev/monai/networks/nets/segresnet.py), [SwinUNETR](https://github.com/LeonidAlekseev/Swin-UNETR), [TransBTS](https://github.com/Rubics-Xuan/TransBTS), [UNETR](https://github.com/tamasino52/UNETR), [DeepResUNet](https://github.com/xiaorui531/deepresunet_brats), [ResUNet](https://github.com/rishikksh20/ResUnet), [HighRes3DNet](https://github.com/fepegar/highresnet), [MultiResUNet](https://github.com/nibtehaz/MultiResUNet), [SegCaps](https://github.com/lalonderodney/SegCaps), [V-Net](https://github.com/mattmacy/vnet.pytorch)
+
+### Experiment Results
+
+
 
