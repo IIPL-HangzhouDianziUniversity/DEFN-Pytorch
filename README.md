@@ -30,7 +30,7 @@ This repository contains the official Pytorch implementation for DEFN networking
 ### FuGH Module
 
 <div align=center>
-  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/FuGH.png"width=50% height=50%>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/FuGH.png"width=100% height=100%>
 </div>
 <p align=center>
   Figure 3: The FuGH Module.
@@ -73,33 +73,33 @@ We have provided the GitHub links to the PyTorch implementation code for all net
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/train_Isolated.png"width=50% height=50%>
 </div>
 <p align=center>
-  Figure 5: The Training Results using Isolated Strategy.
+  Figure 6: The Training Results using Isolated Strategy.
 </p>
 
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/train_Comprehensive.png"width=50% height=50%>
 </div>
 <p align=center>
-  Figure 5: The Training Results using Comprehensive Strategy.
+  Figure 7: The Training Results using Comprehensive Strategy.
 </p>
 
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/finetune_Isolated.png"width=50% height=50%>
 </div>
 <p align=center>
-  Figure 5: The Fine-tuning Results using Isolated Strategy.
+  Figure 8: The Fine-tuning Results using Isolated Strategy.
 </p>
 
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/finetuen_Comprehensive.png"width=50% height=50%>
 </div>
 <p align=center>
-  Figure 5: The Fine-tuning Results using Comprehensive Strategy.
+  Figure 9: The Fine-tuning Results using Comprehensive Strategy.
 </p>
 
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/ablation.png"width=50% height=50%>
 </div>
 <p align=center>
-  Figure 5: The Ablation Results.
+  Figure 10: The Ablation Results.
 </p>
