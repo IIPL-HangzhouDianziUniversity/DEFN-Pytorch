@@ -67,7 +67,39 @@ We have provided the GitHub links to the PyTorch implementation code for all net
 
 [3D UX-Net](https://github.com/MASILab/3DUX-Net), [nnFormer](https://github.com/282857341/nnFormer), [3D U-Net](https://github.com/wolny/pytorch-3dunet), [SegResNet](https://github.com/Project-MONAI/MONAI/blob/dev/monai/networks/nets/segresnet.py), [SwinUNETR](https://github.com/LeonidAlekseev/Swin-UNETR), [TransBTS](https://github.com/Rubics-Xuan/TransBTS), [UNETR](https://github.com/tamasino52/UNETR), [DeepResUNet](https://github.com/xiaorui531/deepresunet_brats), [ResUNet](https://github.com/rishikksh20/ResUnet), [HighRes3DNet](https://github.com/fepegar/highresnet), [MultiResUNet](https://github.com/nibtehaz/MultiResUNet), [SegCaps](https://github.com/lalonderodney/SegCaps), [V-Net](https://github.com/mattmacy/vnet.pytorch)
 
-### Experiment Results
+### Training Results
 
+<div align=center>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/train_Isolated.png"width=50% height=50%>
+</div>
+<p align=center>
+  Figure 5: The Training Results using Isolated Strategy.
+</p>
 
+<div align=center>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/train_Comprehensive.png"width=50% height=50%>
+</div>
+<p align=center>
+  Figure 5: The Training Results using Comprehensive Strategy.
+</p>
 
+<div align=center>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/finetune_Isolated.png"width=50% height=50%>
+</div>
+<p align=center>
+  Figure 5: The Fine-tuning Results using Isolated Strategy.
+</p>
+
+<div align=center>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/finetuen_Comprehensive.png"width=50% height=50%>
+</div>
+<p align=center>
+  Figure 5: The Fine-tuning Results using Comprehensive Strategy.
+</p>
+
+<div align=center>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/ablation.png"width=50% height=50%>
+</div>
+<p align=center>
+  Figure 5: The Ablation Results.
+</p>
