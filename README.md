@@ -119,3 +119,12 @@ Segmentation results of fine-tuning after comprehensive macular hole injection t
 Ablation study on the backbone and modules of DEFN and our methods, including DEFN (DEFN backbone), HSE (Harmonic Squeeze-and-Excitation Module), FuGH (Fourier Group Harmonics), IMHI (Isolated Macular Hole Injection), CMHI (Comprehensive Macular Hole Injection) and DWC (DynamicWeightCompose). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue.
 
 ## 3D Reconstruction Results
+
+<div align=center>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/Retinal_3D_%20reconstruction_Results.png"width=100% height=100%>
+</div>
+<p align=center>
+  Figure 11: The 3D Reconstruction Results.
+</p>
+
+Displayed are five cases with their original images and reconstruction outcomes. The first row presents the pre-segmentation original images for each case. Rows two to five show the reconstructions based on five different grid arrangements, while the sixth row provides a top-view of the reconstruction results. Within the reconstructions, yellow regions indicate macular holes and green regions signify macular edema.
