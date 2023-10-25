@@ -30,7 +30,7 @@ This repository contains the official Pytorch implementation for DEFN networking
 ### FuGH Module
 
 <div align=center>
-  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/FuGH.png"width=100% height=100%>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/FuGH.png"width=50% height=50%>
 </div>
 <p align=center>
   Figure 3: The FuGH Module.
@@ -70,7 +70,7 @@ We have provided the GitHub links to the PyTorch implementation code for all net
 ### Training Results
 
 <div align=center>
-  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/train_Isolated.png"width=50% height=50%>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/train_Isolated.png"width=100% height=100%>
 </div>
 <p align=center>
   Figure 6: The Training Results using Isolated Strategy.
@@ -79,7 +79,7 @@ We have provided the GitHub links to the PyTorch implementation code for all net
 Segmentation results employing the isolated macular hole injection method, comparing the proposed DEFN, DEFN+DWC Loss, and prior segmentation models. The evaluation spans four classes:  All (Average across all classes), MH (Macular Hole), ME (Macular Edema) and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
 
 <div align=center>
-  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/train_Comprehensive.png"width=50% height=50%>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/train_Comprehensive.png"width=100% height=100%>
 </div>
 <p align=center>
   Figure 7: The Training Results using Comprehensive Strategy.
@@ -90,7 +90,7 @@ Segmentation results employing the comprehensive macular hole injection method, 
 ### Fine-tuning Results
 
 <div align=center>
-  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/finetune_Isolated.png"width=50% height=50%>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/finetune_Isolated.png"width=100% height=100%>
 </div>
 <p align=center>
   Figure 8: The Fine-tuning Results using Isolated Strategy.
@@ -99,7 +99,7 @@ Segmentation results employing the comprehensive macular hole injection method, 
 Segmentation results of fine-tuning after isolated macular hole injection training, comparing the proposed DEFN, DEFN+DWC Loss, and prior segmentation models. The evaluation spans four classes: All (Average across all classes), MH (Macular Hole), ME (Macular Edema), and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
 
 <div align=center>
-  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/finetuen_Comprehensive.png"width=50% height=50%>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/finetuen_Comprehensive.png"width=100% height=100%>
 </div>
 <p align=center>
   Figure 9: The Fine-tuning Results using Comprehensive Strategy.
@@ -110,7 +110,7 @@ Segmentation results of fine-tuning after comprehensive macular hole injection t
 ### Ablation Results
 
 <div align=center>
-  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/ablation.png"width=50% height=50%>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/ablation.png"width=100% height=100%>
 </div>
 <p align=center>
   Figure 10: The Ablation Results.
