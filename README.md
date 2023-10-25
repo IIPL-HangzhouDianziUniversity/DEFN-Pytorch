@@ -76,7 +76,7 @@ We have provided the GitHub links to the PyTorch implementation code for all net
   Figure 6: The Training Results using Isolated Strategy.
 </p>
 
-Segmentation results employing the isolated macular hole injection method, comparing the proposed DEFN, DEFN+$\mathcal{L}_{DWC}$ and prior segmentation models. The evaluation spans four classes:  All (Average across all classes), MH (Macular Hole), ME (Macular Edema) and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
+Segmentation results employing the isolated macular hole injection method, comparing the proposed DEFN, DEFN+DWC Loss, and prior segmentation models. The evaluation spans four classes:  All (Average across all classes), MH (Macular Hole), ME (Macular Edema) and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
 
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/train_Comprehensive.png"width=50% height=50%>
@@ -85,7 +85,7 @@ Segmentation results employing the isolated macular hole injection method, compa
   Figure 7: The Training Results using Comprehensive Strategy.
 </p>
 
-Segmentation results employing the comprehensive macular hole injection method, comparing the proposed DEFN, DEFN+$\mathcal{L}_{DWC}$ and prior segmentation models. The evaluation spans four classes: All (Average across all classes), MH (Macular Hole), ME (Macular Edema) and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
+Segmentation results employing the comprehensive macular hole injection method, comparing the proposed DEFN, DEFN+DWC Loss, and prior segmentation models. The evaluation spans four classes: All (Average across all classes), MH (Macular Hole), ME (Macular Edema) and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
 
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/finetune_Isolated.png"width=50% height=50%>
@@ -94,7 +94,7 @@ Segmentation results employing the comprehensive macular hole injection method, 
   Figure 8: The Fine-tuning Results using Isolated Strategy.
 </p>
 
-Segmentation results of fine-tuning after isolated macular hole injection training, comparing the proposed DEFN, DEFN+$\mathcal{L}_{DWC}$, and prior segmentation models. The evaluation spans four classes: All (Average across all classes), MH (Macular Hole), ME (Macular Edema), and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
+Segmentation results of fine-tuning after isolated macular hole injection training, comparing the proposed DEFN, DEFN+DWC Loss, and prior segmentation models. The evaluation spans four classes: All (Average across all classes), MH (Macular Hole), ME (Macular Edema), and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
 
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/finetuen_Comprehensive.png"width=50% height=50%>
@@ -103,7 +103,7 @@ Segmentation results of fine-tuning after isolated macular hole injection traini
   Figure 9: The Fine-tuning Results using Comprehensive Strategy.
 </p>
 
-Segmentation results of fine-tuning after comprehensive macular hole injection training, comparing the proposed DEFN, DEFN+$\mathcal{L}_{DWC}$, and prior segmentation models. The evaluation spans four classes: All (Average across all classes), MH (Macular Hole), ME (Macular Edema), and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
+Segmentation results of fine-tuning after comprehensive macular hole injection training, comparing the proposed DEFN, DEFN+DWC Loss, and prior segmentation models. The evaluation spans four classes: All (Average across all classes), MH (Macular Hole), ME (Macular Edema), and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
 
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/ablation.png"width=50% height=50%>
