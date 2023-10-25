@@ -116,7 +116,7 @@ Segmentation results of fine-tuning after comprehensive macular hole injection t
   Figure 10: The Ablation Results.
 </p>
 
-Ablation study on the backbone and modules of DEFN and our methods, including DEFN (DEFN backbone), HSE (Harmonic Squeeze-and-Excitation Module), FuGH (Fourier Group Harmonics), IMHI (Isolated Macular Hole Injection), CMHI (Comprehensive Macular Hole Injection) and DWC (DynamicWeightCompose). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue.
+An ablation study was conducted on the backbone and modules of DEFN along with our methods, encompassing DEFN (DEFN backbone), HSE (Harmonic Squeeze-and-Excitation Module), FuGH (Fourier Group Harmonics), IMHI (Isolated Macular Hole Injection), CMHI (Comprehensive Macular Hole Injection), and DWC (DynamicWeightCompose). The optimal values for each metric are emphasized in red, whereas the next best values are underscored in blue.
 
 ## 3D Reconstruction Results
 
