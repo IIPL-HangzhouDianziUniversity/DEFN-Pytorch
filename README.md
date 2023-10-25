@@ -127,4 +127,4 @@ Ablation study on the backbone and modules of DEFN and our methods, including DE
   Figure 11: The 3D Reconstruction Results.
 </p>
 
-Displayed are five cases with their original images and reconstruction outcomes. The first row presents the pre-segmentation original images for each case. Rows two to five show the reconstructions based on five different grid arrangements, while the sixth row provides a top-view of the reconstruction results. Within the reconstructions, yellow regions indicate macular holes and green regions signify macular edema.
+The display includes five cases, each with original and reconstructed images.  The first row shows pre-segmentation images, rows two to five show reconstructions from five grid arrangements, and the sixth row shows a top-view of the reconstructions.  Yellow indicates macular holes, and green signifies macular edema.
