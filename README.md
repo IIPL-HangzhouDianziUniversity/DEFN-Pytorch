@@ -1,6 +1,6 @@
 # DEFN: Dual-Encoder Fourier Group Harmonics Network for Three-Dimensional Macular Hole Reconstruction with Stochastic Retinal Defect Augmentation and Dynamic Weight Composition 
 
-### [Project page](https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch) | [Paper](https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch)
+### [Project page](https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch) | [Paper](https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch) | [Our laboratory home page](https://github.com/IIPL-HangzhouDianziUniversity) 
 
 DEFN: Dual-Encoder Fourier Group Harmonics Network for Three-Dimensional Macular Hole Reconstruction with Stochastic Retinal Defect Augmentation and Dynamic Weight Composition.<be>
 
@@ -87,6 +87,8 @@ Segmentation results employing the isolated macular hole injection method, compa
 
 Segmentation results employing the comprehensive macular hole injection method, comparing the proposed DEFN, DEFN+DWC Loss, and prior segmentation models. The evaluation spans four classes: All (Average across all classes), MH (Macular Hole), ME (Macular Edema) and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
 
+### Fine-tuning Results
+
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/finetune_Isolated.png"width=50% height=50%>
 </div>
@@ -105,6 +107,8 @@ Segmentation results of fine-tuning after isolated macular hole injection traini
 
 Segmentation results of fine-tuning after comprehensive macular hole injection training, comparing the proposed DEFN, DEFN+DWC Loss, and prior segmentation models. The evaluation spans four classes: All (Average across all classes), MH (Macular Hole), ME (Macular Edema), and RA (Retina). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue, and the values of our model are bolded.
 
+### Ablation Results
+
 <div align=center>
   <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/Tables/ablation.png"width=50% height=50%>
 </div>
@@ -113,3 +117,5 @@ Segmentation results of fine-tuning after comprehensive macular hole injection t
 </p>
 
 Ablation study on the backbone and modules of DEFN and our methods, including DEFN (DEFN backbone), HSE (Harmonic Squeeze-and-Excitation Module), FuGH (Fourier Group Harmonics), IMHI (Isolated Macular Hole Injection), CMHI (Comprehensive Macular Hole Injection) and DWC (DynamicWeightCompose). The best values for each metric are highlighted in red, while the second-best values are highlighted in blue.
+
+## 3D Reconstruction Results
