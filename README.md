@@ -30,7 +30,7 @@ This repository contains the official Pytorch implementation for DEFN networking
 ### FuGH Module
 
 <div align=center>
-  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/FuGH.png"width=80% height=80%>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/FuGH.png"width=50% height=50%>
 </div>
 <p align=center>
   Figure 3: The FuGH Module.
@@ -41,7 +41,7 @@ The Fourier Group Harmonics (FuGH) module enhances noise reduction in OCT images
 ### S3DSA Module
 
 <div align=center>
-  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/S3DSA.png"width=80% height=80%>
+  <img src="https://github.com/IIPL-HangzhouDianziUniversity/DEFN-Pytorch/blob/main/images/S3DSA.png"width=50% height=50%>
 </div>
 <p align=center>
   Figure 4: The S3DSA Module.
